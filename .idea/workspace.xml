@@ -20,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -40,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -138,12 +138,24 @@
       <workItem from="1609399409071" duration="2417000" />
       <workItem from="1609725418370" duration="599000" />
       <workItem from="1611561337218" duration="4493000" />
-      <workItem from="1612167871406" duration="12467000" />
+      <workItem from="1612167871406" duration="12883000" />
     </task>
+    <task id="LOCAL-00001" summary="初始创建">
+      <created>1612233181458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612233181458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始创建" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始创建" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1609399677177">
@@ -158,10 +170,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="711" y="379" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611565028740" />
-    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1612231427311">
+    <state x="560" y="105" key="CommitChangelistDialog2" timestamp="1612233176780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612231427311" />
+    <state x="560" y="105" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612233176780" />
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1612233074145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612233074145" />
     <state x="771" y="438" key="Github.CreateGistDialog" timestamp="1612231496405">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -222,10 +238,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612232131317" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1612231803212">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1612233212586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612231803212" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612233212586" />
     <state x="610" y="247" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1612232014058">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -234,6 +250,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="320" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogintegrate/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612232577085" />
+    <state x="756" y="299" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612232902860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="299" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612232902860" />
     <state x="2581" y="223" width="598" height="594" key="find.popup" timestamp="1611565706951">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -251,9 +271,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="817" y="346" key="svn.propertyDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612232597789" />
-    <state x="770" y="279" key="svn.repositoryBrowser" timestamp="1612232725789">
+    <state x="770" y="279" key="svn.repositoryBrowser" timestamp="1612232995770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="770" y="279" key="svn.repositoryBrowser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612232725789" />
+    <state x="770" y="279" key="svn.repositoryBrowser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612232995770" />
+    <state x="757" y="250" key="svn4idea.import.options" timestamp="1612232986531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="250" key="svn4idea.import.options/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612232986531" />
   </component>
 </project>
