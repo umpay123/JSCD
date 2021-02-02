@@ -1,0 +1,174 @@
+2020/10/16 10:17:18:527  INFO Script_JD_001:225 - Input'ext.caotianbao'on'[[ChromeDriver: chrome on XP (ad537846426ef3a2f2213848b8cba3df)] -> id: username]'element
+2020/10/16 10:17:18:884  INFO Script_JD_001:225 - Input'Liyanyan.0'on'[[ChromeDriver: chrome on XP (ad537846426ef3a2f2213848b8cba3df)] -> id: password]'element
+2020/10/16 10:17:19:217  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (ad537846426ef3a2f2213848b8cba3df)] -> xpath: //input[contains(@value,'登')]]'element
+2020/10/16 10:17:20:381  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (ad537846426ef3a2f2213848b8cba3df)] -> xpath: //span[text()='创建实名']]'element
+2020/10/16 10:17:20:632  INFO Script_JD_001:225 - Input'cao_101'on'[[ChromeDriver: chrome on XP (ad537846426ef3a2f2213848b8cba3df)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:17:20:769  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (ad537846426ef3a2f2213848b8cba3df)] -> xpath: //span[contains(text(),'随机生成')]]'element
+2020/10/16 10:17:20:894  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (ad537846426ef3a2f2213848b8cba3df)] -> xpath: //span[contains(text(),'提交')]]'element
+2020/10/16 10:17:25:986  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (ad537846426ef3a2f2213848b8cba3df)] -> xpath: //li[@role='menuitem']/span[text()='金融卡中心']]'element
+2020/10/16 10:17:26:285  INFO Script_JD_001:225 - Input'cao_101'on'[[ChromeDriver: chrome on XP (ad537846426ef3a2f2213848b8cba3df)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:17:26:486  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (ad537846426ef3a2f2213848b8cba3df)] -> xpath: //span[text()='查询实名']]'element
+2020/10/16 10:20:00:665  INFO Script_JD_001:225 - Input'ext.caotianbao'on'[[ChromeDriver: chrome on XP (9c184f5e692300c1ee017586a61fc930)] -> id: username]'element
+2020/10/16 10:20:00:770  INFO Script_JD_001:225 - Input'Liyanyan.0'on'[[ChromeDriver: chrome on XP (9c184f5e692300c1ee017586a61fc930)] -> id: password]'element
+2020/10/16 10:20:01:150  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (9c184f5e692300c1ee017586a61fc930)] -> xpath: //input[contains(@value,'登')]]'element
+2020/10/16 10:20:02:318  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (9c184f5e692300c1ee017586a61fc930)] -> xpath: //span[text()='创建实名']]'element
+2020/10/16 10:20:02:508  INFO Script_JD_001:225 - Input'cao_101'on'[[ChromeDriver: chrome on XP (9c184f5e692300c1ee017586a61fc930)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:20:02:599  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (9c184f5e692300c1ee017586a61fc930)] -> xpath: //span[contains(text(),'随机生成')]]'element
+2020/10/16 10:20:02:712  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (9c184f5e692300c1ee017586a61fc930)] -> xpath: //span[contains(text(),'提交')]]'element
+2020/10/16 10:20:10:873  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (9c184f5e692300c1ee017586a61fc930)] -> xpath: //li[@role='menuitem']/span[text()='金融卡中心']]'element
+2020/10/16 10:20:11:196  INFO Script_JD_001:225 - Input'cao_101'on'[[ChromeDriver: chrome on XP (9c184f5e692300c1ee017586a61fc930)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:20:11:329  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (9c184f5e692300c1ee017586a61fc930)] -> xpath: //span[text()='查询实名']]'element
+2020/10/16 10:22:10:946  INFO Script_JD_001:225 - Input'ext.caotianbao'on'[[ChromeDriver: chrome on XP (5c2bee4f14d6d62937b2a7e55aac998b)] -> id: username]'element
+2020/10/16 10:22:11:596  INFO Script_JD_001:225 - Input'Liyanyan.0'on'[[ChromeDriver: chrome on XP (5c2bee4f14d6d62937b2a7e55aac998b)] -> id: password]'element
+2020/10/16 10:22:12:245  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (5c2bee4f14d6d62937b2a7e55aac998b)] -> xpath: //input[contains(@value,'登')]]'element
+2020/10/16 10:22:13:504  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (5c2bee4f14d6d62937b2a7e55aac998b)] -> xpath: //span[text()='创建实名']]'element
+2020/10/16 10:22:13:752  INFO Script_JD_001:225 - Input'cao_102'on'[[ChromeDriver: chrome on XP (5c2bee4f14d6d62937b2a7e55aac998b)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:22:13:936  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (5c2bee4f14d6d62937b2a7e55aac998b)] -> xpath: //span[contains(text(),'随机生成')]]'element
+2020/10/16 10:22:14:091  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (5c2bee4f14d6d62937b2a7e55aac998b)] -> xpath: //span[contains(text(),'提交')]]'element
+2020/10/16 10:22:22:267  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (5c2bee4f14d6d62937b2a7e55aac998b)] -> xpath: //li[@role='menuitem']/span[text()='金融卡中心']]'element
+2020/10/16 10:22:25:455  INFO Script_JD_001:225 - Input'cao_102'on'[[ChromeDriver: chrome on XP (5c2bee4f14d6d62937b2a7e55aac998b)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:22:25:530  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (5c2bee4f14d6d62937b2a7e55aac998b)] -> xpath: //span[text()='查询实名']]'element
+2020/10/16 10:36:00:405  INFO Script_JD_001:225 - Input'ext.caotianbao'on'[[ChromeDriver: chrome on XP (b16683a82fb10e09403991157cad757b)] -> id: username]'element
+2020/10/16 10:36:00:558  INFO Script_JD_001:225 - Input'Liyanyan.0'on'[[ChromeDriver: chrome on XP (b16683a82fb10e09403991157cad757b)] -> id: password]'element
+2020/10/16 10:36:00:908  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (b16683a82fb10e09403991157cad757b)] -> xpath: //input[contains(@value,'登')]]'element
+2020/10/16 10:36:02:082  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (b16683a82fb10e09403991157cad757b)] -> xpath: //span[text()='创建实名']]'element
+2020/10/16 10:36:02:335  INFO Script_JD_001:225 - Input'cao_103'on'[[ChromeDriver: chrome on XP (b16683a82fb10e09403991157cad757b)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:36:02:462  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (b16683a82fb10e09403991157cad757b)] -> xpath: //span[contains(text(),'随机生成')]]'element
+2020/10/16 10:36:02:566  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (b16683a82fb10e09403991157cad757b)] -> xpath: //span[contains(text(),'提交')]]'element
+2020/10/16 10:36:10:730  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (b16683a82fb10e09403991157cad757b)] -> xpath: //li[@role='menuitem']/span[text()='金融卡中心']]'element
+2020/10/16 10:36:13:925  INFO Script_JD_001:225 - Input'cao_103'on'[[ChromeDriver: chrome on XP (b16683a82fb10e09403991157cad757b)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:36:13:994  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (b16683a82fb10e09403991157cad757b)] -> xpath: //span[text()='查询实名']]'element
+2020/10/16 10:36:48:785  INFO Script_JD_001:225 - Input'ext.caotianbao'on'[[ChromeDriver: chrome on XP (921ec7b44e85ef7cb2994165b7646b3e)] -> id: username]'element
+2020/10/16 10:36:49:266  INFO Script_JD_001:225 - Input'Liyanyan.0'on'[[ChromeDriver: chrome on XP (921ec7b44e85ef7cb2994165b7646b3e)] -> id: password]'element
+2020/10/16 10:36:49:642  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (921ec7b44e85ef7cb2994165b7646b3e)] -> xpath: //input[contains(@value,'登')]]'element
+2020/10/16 10:36:50:795  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (921ec7b44e85ef7cb2994165b7646b3e)] -> xpath: //span[text()='创建实名']]'element
+2020/10/16 10:36:51:011  INFO Script_JD_001:225 - Input'cao_103'on'[[ChromeDriver: chrome on XP (921ec7b44e85ef7cb2994165b7646b3e)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:36:51:133  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (921ec7b44e85ef7cb2994165b7646b3e)] -> xpath: //span[contains(text(),'随机生成')]]'element
+2020/10/16 10:36:51:233  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (921ec7b44e85ef7cb2994165b7646b3e)] -> xpath: //span[contains(text(),'提交')]]'element
+2020/10/16 10:36:59:363  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (921ec7b44e85ef7cb2994165b7646b3e)] -> xpath: //li[@role='menuitem']/span[text()='金融卡中心']]'element
+2020/10/16 10:37:43:443  INFO Script_JD_001:225 - Input'ext.caotianbao'on'[[ChromeDriver: chrome on XP (7451dc12b0ec912c463883913d998d21)] -> id: username]'element
+2020/10/16 10:37:43:923  INFO Script_JD_001:225 - Input'Liyanyan.0'on'[[ChromeDriver: chrome on XP (7451dc12b0ec912c463883913d998d21)] -> id: password]'element
+2020/10/16 10:37:44:297  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (7451dc12b0ec912c463883913d998d21)] -> xpath: //input[contains(@value,'登')]]'element
+2020/10/16 10:37:45:451  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (7451dc12b0ec912c463883913d998d21)] -> xpath: //span[text()='创建实名']]'element
+2020/10/16 10:37:45:657  INFO Script_JD_001:225 - Input'cao_103'on'[[ChromeDriver: chrome on XP (7451dc12b0ec912c463883913d998d21)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:37:45:748  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (7451dc12b0ec912c463883913d998d21)] -> xpath: //span[contains(text(),'随机生成')]]'element
+2020/10/16 10:37:47:838  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (7451dc12b0ec912c463883913d998d21)] -> xpath: //span[contains(text(),'提交')]]'element
+2020/10/16 10:37:55:980  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (7451dc12b0ec912c463883913d998d21)] -> xpath: //li[@role='menuitem']/span[text()='金融卡中心']]'element
+2020/10/16 10:37:59:149  INFO Script_JD_001:225 - Input'cao_103'on'[[ChromeDriver: chrome on XP (7451dc12b0ec912c463883913d998d21)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:37:59:222  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (7451dc12b0ec912c463883913d998d21)] -> xpath: //span[text()='查询实名']]'element
+2020/10/16 10:39:09:953  INFO Script_JD_001:225 - Input'ext.caotianbao'on'[[ChromeDriver: chrome on XP (bc20a5d2bc2001a032647a8e251a05ec)] -> id: username]'element
+2020/10/16 10:39:10:077  INFO Script_JD_001:225 - Input'Liyanyan.0'on'[[ChromeDriver: chrome on XP (bc20a5d2bc2001a032647a8e251a05ec)] -> id: password]'element
+2020/10/16 10:39:10:404  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (bc20a5d2bc2001a032647a8e251a05ec)] -> xpath: //input[contains(@value,'登')]]'element
+2020/10/16 10:39:11:597  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (bc20a5d2bc2001a032647a8e251a05ec)] -> xpath: //span[text()='创建实名']]'element
+2020/10/16 10:39:11:829  INFO Script_JD_001:225 - Input'cao_104'on'[[ChromeDriver: chrome on XP (bc20a5d2bc2001a032647a8e251a05ec)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:39:11:951  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (bc20a5d2bc2001a032647a8e251a05ec)] -> xpath: //span[contains(text(),'随机生成')]]'element
+2020/10/16 10:39:14:046  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (bc20a5d2bc2001a032647a8e251a05ec)] -> xpath: //span[contains(text(),'提交')]]'element
+2020/10/16 10:39:22:190  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (bc20a5d2bc2001a032647a8e251a05ec)] -> xpath: //li[@role='menuitem']/span[text()='金融卡中心']]'element
+2020/10/16 10:39:25:378  INFO Script_JD_001:225 - Input'cao_104'on'[[ChromeDriver: chrome on XP (bc20a5d2bc2001a032647a8e251a05ec)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:39:25:454  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (bc20a5d2bc2001a032647a8e251a05ec)] -> xpath: //span[text()='查询实名']]'element
+2020/10/16 10:45:54:388  INFO Script_JD_001:225 - Input'ext.caotianbao'on'[[ChromeDriver: chrome on XP (acf629459f1fe4a893281798377bada8)] -> id: username]'element
+2020/10/16 10:45:54:823  INFO Script_JD_001:225 - Input'Liyanyan.0'on'[[ChromeDriver: chrome on XP (acf629459f1fe4a893281798377bada8)] -> id: password]'element
+2020/10/16 10:45:55:188  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (acf629459f1fe4a893281798377bada8)] -> xpath: //input[contains(@value,'登')]]'element
+2020/10/16 10:45:56:352  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (acf629459f1fe4a893281798377bada8)] -> xpath: //span[text()='创建实名']]'element
+2020/10/16 10:45:56:573  INFO Script_JD_001:225 - Input'cao_105'on'[[ChromeDriver: chrome on XP (acf629459f1fe4a893281798377bada8)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:45:56:673  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (acf629459f1fe4a893281798377bada8)] -> xpath: //span[contains(text(),'随机生成')]]'element
+2020/10/16 10:45:58:812  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (acf629459f1fe4a893281798377bada8)] -> xpath: //span[contains(text(),'提交')]]'element
+2020/10/16 10:46:06:954  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (acf629459f1fe4a893281798377bada8)] -> xpath: //li[@role='menuitem']/span[text()='金融卡中心']]'element
+2020/10/16 10:46:10:131  INFO Script_JD_001:225 - Input'cao_105'on'[[ChromeDriver: chrome on XP (acf629459f1fe4a893281798377bada8)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:46:10:195  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (acf629459f1fe4a893281798377bada8)] -> xpath: //span[text()='查询实名']]'element
+2020/10/16 10:53:02:754  INFO Script_JD_001:225 - Input'ext.caotianbao'on'[[ChromeDriver: chrome on XP (2f963ab1ee49ba45c7dab46631b05184)] -> id: username]'element
+2020/10/16 10:53:03:252  INFO Script_JD_001:225 - Input'Liyanyan.0'on'[[ChromeDriver: chrome on XP (2f963ab1ee49ba45c7dab46631b05184)] -> id: password]'element
+2020/10/16 10:53:03:636  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (2f963ab1ee49ba45c7dab46631b05184)] -> xpath: //input[contains(@value,'登')]]'element
+2020/10/16 10:53:04:821  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (2f963ab1ee49ba45c7dab46631b05184)] -> xpath: //span[text()='创建实名']]'element
+2020/10/16 10:53:05:087  INFO Script_JD_001:225 - Input'cao_106'on'[[ChromeDriver: chrome on XP (2f963ab1ee49ba45c7dab46631b05184)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:53:05:218  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (2f963ab1ee49ba45c7dab46631b05184)] -> xpath: //span[contains(text(),'随机生成')]]'element
+2020/10/16 10:53:07:303  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (2f963ab1ee49ba45c7dab46631b05184)] -> xpath: //span[contains(text(),'提交')]]'element
+2020/10/16 10:53:15:425  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (2f963ab1ee49ba45c7dab46631b05184)] -> xpath: //li[@role='menuitem']/span[text()='金融卡中心']]'element
+2020/10/16 10:53:18:604  INFO Script_JD_001:225 - Input'cao_106'on'[[ChromeDriver: chrome on XP (2f963ab1ee49ba45c7dab46631b05184)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:53:18:681  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (2f963ab1ee49ba45c7dab46631b05184)] -> xpath: //span[text()='查询实名']]'element
+2020/10/16 10:59:55:960  INFO Script_JD_001:225 - Input'ext.caotianbao'on'[[ChromeDriver: chrome on XP (1681f6ce57d5dda8087037d3ba30ec9d)] -> id: username]'element
+2020/10/16 10:59:56:109  INFO Script_JD_001:225 - Input'Liyanyan.0'on'[[ChromeDriver: chrome on XP (1681f6ce57d5dda8087037d3ba30ec9d)] -> id: password]'element
+2020/10/16 10:59:56:605  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (1681f6ce57d5dda8087037d3ba30ec9d)] -> xpath: //input[contains(@value,'登')]]'element
+2020/10/16 10:59:57:905  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (1681f6ce57d5dda8087037d3ba30ec9d)] -> xpath: //span[text()='创建实名']]'element
+2020/10/16 10:59:58:300  INFO Script_JD_001:225 - Input'cao_LVNA7212'on'[[ChromeDriver: chrome on XP (1681f6ce57d5dda8087037d3ba30ec9d)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 10:59:58:410  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (1681f6ce57d5dda8087037d3ba30ec9d)] -> xpath: //span[contains(text(),'随机生成')]]'element
+2020/10/16 11:00:00:498  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (1681f6ce57d5dda8087037d3ba30ec9d)] -> xpath: //span[contains(text(),'提交')]]'element
+2020/10/16 11:00:08:630  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (1681f6ce57d5dda8087037d3ba30ec9d)] -> xpath: //li[@role='menuitem']/span[text()='金融卡中心']]'element
+2020/10/16 11:00:11:881  INFO Script_JD_001:225 - Input'cao_LVNA7212'on'[[ChromeDriver: chrome on XP (1681f6ce57d5dda8087037d3ba30ec9d)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 11:00:11:962  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (1681f6ce57d5dda8087037d3ba30ec9d)] -> xpath: //span[text()='查询实名']]'element
+2020/10/16 11:01:01:722  INFO Script_JD_001:225 - Input'ext.caotianbao'on'[[ChromeDriver: chrome on XP (686f0d34de3fcc92a236421d68925cd6)] -> id: username]'element
+2020/10/16 11:01:02:244  INFO Script_JD_001:225 - Input'Liyanyan.0'on'[[ChromeDriver: chrome on XP (686f0d34de3fcc92a236421d68925cd6)] -> id: password]'element
+2020/10/16 11:01:02:676  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (686f0d34de3fcc92a236421d68925cd6)] -> xpath: //input[contains(@value,'登')]]'element
+2020/10/16 11:01:04:444  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (686f0d34de3fcc92a236421d68925cd6)] -> xpath: //span[text()='创建实名']]'element
+2020/10/16 11:01:04:805  INFO Script_JD_001:225 - Input'cao_LVNCG42D'on'[[ChromeDriver: chrome on XP (686f0d34de3fcc92a236421d68925cd6)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 11:01:04:934  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (686f0d34de3fcc92a236421d68925cd6)] -> xpath: //span[contains(text(),'随机生成')]]'element
+2020/10/16 11:01:07:033  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (686f0d34de3fcc92a236421d68925cd6)] -> xpath: //span[contains(text(),'提交')]]'element
+2020/10/16 11:01:15:166  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (686f0d34de3fcc92a236421d68925cd6)] -> xpath: //li[@role='menuitem']/span[text()='金融卡中心']]'element
+2020/10/16 11:01:18:430  INFO Script_JD_001:225 - Input'cao_LVNCG42D'on'[[ChromeDriver: chrome on XP (686f0d34de3fcc92a236421d68925cd6)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 11:01:18:500  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (686f0d34de3fcc92a236421d68925cd6)] -> xpath: //span[text()='查询实名']]'element
+2020/10/16 11:02:28:519  INFO Script_JD_001:225 - Input'ext.caotianbao'on'[[ChromeDriver: chrome on XP (b750f98dc2f84c6c8232ccdb89d67032)] -> id: username]'element
+2020/10/16 11:02:28:964  INFO Script_JD_001:225 - Input'Liyanyan.0'on'[[ChromeDriver: chrome on XP (b750f98dc2f84c6c8232ccdb89d67032)] -> id: password]'element
+2020/10/16 11:02:29:307  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (b750f98dc2f84c6c8232ccdb89d67032)] -> xpath: //input[contains(@value,'登')]]'element
+2020/10/16 11:02:30:455  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (b750f98dc2f84c6c8232ccdb89d67032)] -> xpath: //span[text()='创建实名']]'element
+2020/10/16 11:02:30:748  INFO Script_JD_001:225 - Input'cao_LVNA461B'on'[[ChromeDriver: chrome on XP (b750f98dc2f84c6c8232ccdb89d67032)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 11:02:30:843  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (b750f98dc2f84c6c8232ccdb89d67032)] -> xpath: //span[contains(text(),'随机生成')]]'element
+2020/10/16 11:02:32:929  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (b750f98dc2f84c6c8232ccdb89d67032)] -> xpath: //span[contains(text(),'提交')]]'element
+2020/10/16 11:02:41:061  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (b750f98dc2f84c6c8232ccdb89d67032)] -> xpath: //li[@role='menuitem']/span[text()='金融卡中心']]'element
+2020/10/16 11:02:44:362  INFO Script_JD_001:225 - Input'cao_LVNA461B'on'[[ChromeDriver: chrome on XP (b750f98dc2f84c6c8232ccdb89d67032)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 11:02:44:425  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (b750f98dc2f84c6c8232ccdb89d67032)] -> xpath: //span[text()='查询实名']]'element
+2020/10/16 11:04:18:837 ERROR Script_JD_001:964 - Loading Chrome Driver Error : 
+org.openqa.selenium.WebDriverException: unknown error: failed to change window state to maximized, current state is normal
+  (Session info: chrome=84.0.4147.125)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.13 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'JRA1W1PF1800SM', ip: '10.13.60.157', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\super\AppData\Local\Temp\scoped_dir8720_26922}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=84.0.4147.125, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d8743c4c28b2166abb750e2f3c55ecc0
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:945)
+	at com.base.core.BaseWebDriver.getChromeDriver(BaseWebDriver.java:961)
+	at com.base.core.BaseCase.initWebDriver(BaseCase.java:132)
+	at com.base.core.BaseCase.beforeclass(BaseCase.java:43)
+	at com.base.core.BaseCase.before(BaseCase.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:542)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:770)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+2020/10/16 16:50:36:321  INFO Script_JD_001:225 - Input'ext.caotianbao'on'[[ChromeDriver: chrome on XP (7c7529e597a3838fd4ce097b6a5309b6)] -> id: username]'element
+2020/10/16 16:50:36:455  INFO Script_JD_001:225 - Input'Liyanyan.0'on'[[ChromeDriver: chrome on XP (7c7529e597a3838fd4ce097b6a5309b6)] -> id: password]'element
+2020/10/16 16:50:37:051  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (7c7529e597a3838fd4ce097b6a5309b6)] -> xpath: //input[contains(@value,'登')]]'element
+2020/10/16 16:50:38:231  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (7c7529e597a3838fd4ce097b6a5309b6)] -> xpath: //span[text()='创建实名']]'element
+2020/10/16 16:50:38:573  INFO Script_JD_001:225 - Input'cao_LVNAA51E'on'[[ChromeDriver: chrome on XP (7c7529e597a3838fd4ce097b6a5309b6)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 16:50:38:691  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (7c7529e597a3838fd4ce097b6a5309b6)] -> xpath: //span[contains(text(),'随机生成')]]'element
+2020/10/16 16:50:40:801  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (7c7529e597a3838fd4ce097b6a5309b6)] -> xpath: //span[contains(text(),'提交')]]'element
+2020/10/16 16:50:48:936  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (7c7529e597a3838fd4ce097b6a5309b6)] -> xpath: //li[@role='menuitem']/span[text()='金融卡中心']]'element
+2020/10/16 16:50:52:182  INFO Script_JD_001:225 - Input'cao_LVNAA51E'on'[[ChromeDriver: chrome on XP (7c7529e597a3838fd4ce097b6a5309b6)] -> xpath: //label[text()='Pin']//following::input[1]]'element
+2020/10/16 16:50:52:255  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (7c7529e597a3838fd4ce097b6a5309b6)] -> xpath: //span[text()='查询实名']]'element

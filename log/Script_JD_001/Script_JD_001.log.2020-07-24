@@ -1,0 +1,12 @@
+2020/07/24 16:23:44:940  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (d9e0ed58b7634c730f9545ef6f8b8efb)] -> xpath: //span[text()='财经日历']]'element
+2020/07/24 16:23:50:057  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (d9e0ed58b7634c730f9545ef6f8b8efb)] -> xpath: //span[text()='数据中心']]'element
+2020/07/24 16:23:57:854  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (d9e0ed58b7634c730f9545ef6f8b8efb)] -> xpath: //p[text()='ETF持仓']]'element
+2020/07/24 16:24:08:109  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (d9e0ed58b7634c730f9545ef6f8b8efb)] -> xpath: //div[text()='白银ETF']]'element
+2020/07/24 17:19:15:759  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (a01da8ea53669ca7a7ccff8093c11820)] -> xpath: //span[text()='财经日历']]'element
+2020/07/24 17:19:20:850  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (a01da8ea53669ca7a7ccff8093c11820)] -> xpath: //span[text()='数据中心']]'element
+2020/07/24 17:19:26:732  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (a01da8ea53669ca7a7ccff8093c11820)] -> xpath: //p[text()='ETF持仓']]'element
+2020/07/24 17:19:36:927  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (a01da8ea53669ca7a7ccff8093c11820)] -> xpath: //div[text()='白银ETF']]'element
+2020/07/24 18:20:42:219  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (99324e70a0b2df51ef5c2ad8b3de4f9e)] -> xpath: //span[text()='财经日历']]'element
+2020/07/24 18:20:47:411  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (99324e70a0b2df51ef5c2ad8b3de4f9e)] -> xpath: //span[text()='数据中心']]'element
+2020/07/24 18:20:53:579  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (99324e70a0b2df51ef5c2ad8b3de4f9e)] -> xpath: //p[text()='ETF持仓']]'element
+2020/07/24 18:21:03:728  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (99324e70a0b2df51ef5c2ad8b3de4f9e)] -> xpath: //div[text()='白银ETF']]'element

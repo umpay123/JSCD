@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+	<project name="JDAuto" default="run" basedir=".">
+	<!--Task definition for Ant-Contrib-->
+	<taskdef resource="net/sf/antcontrib/antlib.xml" >
+		<classpath>
+			<pathelement location="./lib/ant-contrib-1.0b3.jar" /> 
+		</classpath>
+	</taskdef>
+	<target name="clean" depends="">
+		<delete dir="${basedir}/anttest" />
+		<echo message="Clean anttest folder successfully!" />
+	</target>
+	<target name="compile" depends="clean">
+		<!--create folder for report-->
+		<tstamp>
+			<format property="DSTAMP" pattern="yyyyMMdd" />
+		</tstamp>
+		<tstamp>
+			<format property="TSTAMP" pattern="hhmmss" />
+		</tstamp>	
+		<mkdir dir="C:/AutoFrameReport/${DSTAMP}/${TSTAMP}" />
+		<mkdir dir="C:/AutoFrameReport/${DSTAMP}/${TSTAMP}/html" />
+		<!--define reports path 定义报告的路径和格式-->
+		<property name="reports" location="C:/AutoFrameReport/${DSTAMP}/${TSTAMP}" />
+		<!--create folder for class files -->
+		<mkdir dir="${basedir}/anttest/classes" />
+		<!--compile java source file   编译java的jar包-->
+		<javac fork="true" executable="C:\Program Files\Java\jdk1.8.0_241\bin\javac" srcdir="${basedir}/src" destdir="${basedir}/anttest/classes" encoding="UTF-8" includeantruntime="false" debug="true">
+			<classpath>
+				<fileset dir="${basedir}/lib" includes="*.jar" />
+			</classpath>
+		</javac>
+	</target>
+	<target name="run" depends="compile">
+		<junit printsummary="true" showoutput="test.failed" errorproperty="test.failed" failureproperty="test.failed" >
+			<formatter type="xml" usefile="true" />
+			<sysproperty key="file.encoding" value="UTF-8" />
+			<classpath>
+				<fileset dir="${basedir}/lib" includes="*.jar" />
+				<pathelement path="${basedir}/anttest/classes" />
+			</classpath>
+				<test name = "testcase.cxcb.Script_JD_003" todir = "${reports}"/>
+		</junit>
+		<!--setup junit reports-->
+		<junitreport todir="${reports}">
+			<fileset dir="${reports}">
+				<include name="TEST-*.xml" />
+			</fileset>
+			<report format="frames" todir="${reports}/html" />
+		</junitreport>
+		<fail if="test.failed">
+			Test is failed.
+		</fail>
+	</target>
+	
+	</project>

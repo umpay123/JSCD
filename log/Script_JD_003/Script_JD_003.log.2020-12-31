@@ -1,0 +1,3 @@
+2020/12/31 15:34:15:464  INFO Script_JD_003:225 - Input'tanlin41'on'[[ChromeDriver: chrome on XP (2603661bdb7c34f11708b014bed42f2a)] -> id: username]'element
+2020/12/31 15:34:15:546  INFO Script_JD_003:225 - Input'Tl20200407!!!!!'on'[[ChromeDriver: chrome on XP (2603661bdb7c34f11708b014bed42f2a)] -> id: password]'element
+2020/12/31 15:34:16:938  INFO Script_JD_003:240 - Click'[[ChromeDriver: chrome on XP (2603661bdb7c34f11708b014bed42f2a)] -> xpath: //input[contains(@value,'登')]]'element

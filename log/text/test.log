@@ -1,0 +1,38 @@
+2021/02/01 19:38:41:637 ERROR org.quartz.core.JobRunShell:211 - Job group1.job1 threw an unhandled Exception: 
+java.lang.NullPointerException
+	at com.base.core.BaseWebDriver.screenshotToLocal(BaseWebDriver.java:746)
+	at com.base.core.BaseWebDriver.findElement(BaseWebDriver.java:116)
+	at testcase.cxcb.Script_JD_003.main1(Script_JD_003.java:29)
+	at testcase.cxcb.DaKaJob.execute(DaKaJob.java:19)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573)
+2021/02/01 19:38:41:641 ERROR org.quartz.core.ErrorLogger:2407 - Job (group1.job1 threw an exception.
+org.quartz.SchedulerException: Job threw an unhandled exception. [See nested exception: java.lang.NullPointerException]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:213)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573)
+Caused by: java.lang.NullPointerException
+	at com.base.core.BaseWebDriver.screenshotToLocal(BaseWebDriver.java:746)
+	at com.base.core.BaseWebDriver.findElement(BaseWebDriver.java:116)
+	at testcase.cxcb.Script_JD_003.main1(Script_JD_003.java:29)
+	at testcase.cxcb.DaKaJob.execute(DaKaJob.java:19)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202)
+	... 1 more
+2021/02/01 19:38:45:185 ERROR org.quartz.core.JobRunShell:211 - Job group1.job1 threw an unhandled Exception: 
+java.lang.NullPointerException
+	at com.base.core.BaseWebDriver.screenshotToLocal(BaseWebDriver.java:746)
+	at com.base.core.BaseWebDriver.findElement(BaseWebDriver.java:116)
+	at testcase.cxcb.Script_JD_003.main1(Script_JD_003.java:29)
+	at testcase.cxcb.DaKaJob.execute(DaKaJob.java:19)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573)
+2021/02/01 19:38:45:186 ERROR org.quartz.core.ErrorLogger:2407 - Job (group1.job1 threw an exception.
+org.quartz.SchedulerException: Job threw an unhandled exception. [See nested exception: java.lang.NullPointerException]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:213)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573)
+Caused by: java.lang.NullPointerException
+	at com.base.core.BaseWebDriver.screenshotToLocal(BaseWebDriver.java:746)
+	at com.base.core.BaseWebDriver.findElement(BaseWebDriver.java:116)
+	at testcase.cxcb.Script_JD_003.main1(Script_JD_003.java:29)
+	at testcase.cxcb.DaKaJob.execute(DaKaJob.java:19)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202)
+	... 1 more

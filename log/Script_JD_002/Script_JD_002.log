@@ -1,0 +1,4 @@
+2020/10/20 17:04:50:705  INFO Script_JD_002:240 - Click'[[ChromeDriver: chrome on XP (f37e9c719c5038d7aa887544116e68ed)] -> xpath: //a[text()='账户登录']]'element
+2020/10/20 17:04:51:054  INFO Script_JD_002:225 - Input'cao_LVN8E5A4'on'[[ChromeDriver: chrome on XP (f37e9c719c5038d7aa887544116e68ed)] -> id: loginname]'element
+2020/10/20 17:04:51:278  INFO Script_JD_002:225 - Input'111111'on'[[ChromeDriver: chrome on XP (f37e9c719c5038d7aa887544116e68ed)] -> id: nloginpwd]'element
+2020/10/20 17:04:51:826  INFO Script_JD_002:240 - Click'[[ChromeDriver: chrome on XP (f37e9c719c5038d7aa887544116e68ed)] -> id: loginsubmit]'element

@@ -1,0 +1,81 @@
+2020/07/28 16:50:02:139 ERROR Script_JD_001:242 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'JRA1W1PF1800SM', ip: '10.13.60.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\super\AppData\Local\Temp\scoped_dir9052_23007}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=83.0.4103.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: aae2f9e91c028d5277da50ea6cc2b614
+2020/07/28 16:50:46:352  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (e01d139729ca22fccdd446202cae5fce)] -> xpath: //span[text()='财经日历']]'element
+2020/07/28 16:50:51:482  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (e01d139729ca22fccdd446202cae5fce)] -> xpath: //span[text()='数据中心']]'element
+2020/07/28 16:50:57:609  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (e01d139729ca22fccdd446202cae5fce)] -> xpath: //p[text()='ETF持仓']]'element
+2020/07/28 16:52:44:181 ERROR Script_JD_001:624 - Can not find element:
+org.openqa.selenium.TimeoutException: Timed out after 100 seconds waiting for com.base.core.BaseWebDriver$3@24fcf36f
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'JRA1W1PF1800SM', ip: '10.13.60.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\super\AppData\Local\Temp\scoped_dir1480_19010}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=83.0.4103.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: e01d139729ca22fccdd446202cae5fce
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at com.base.core.BaseWebDriver.navigateToWindowByUrl(BaseWebDriver.java:606)
+	at task.jscd.JD_Auto.ZX_task(JD_Auto.java:31)
+	at testcase.cxcb.Script_JD_001.main(Script_JD_001.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:542)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:770)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+2020/07/28 16:56:43:681  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (773012e8a0d81da7a6850b8b88e506c7)] -> xpath: //span[text()='财经日历']]'element
+2020/07/28 16:56:48:783  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (773012e8a0d81da7a6850b8b88e506c7)] -> xpath: //span[text()='数据中心']]'element
+2020/07/28 16:56:57:335  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (773012e8a0d81da7a6850b8b88e506c7)] -> xpath: //p[text()='ETF持仓']]'element
+2020/07/28 16:57:07:545  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (773012e8a0d81da7a6850b8b88e506c7)] -> xpath: //div[text()='白银ETF']]'element
+2020/07/28 17:01:10:764  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (1055c5a88967bf9e726ad0f4085d81b5)] -> xpath: //span[text()='财经日历']]'element
+2020/07/28 17:01:15:859  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (1055c5a88967bf9e726ad0f4085d81b5)] -> xpath: //span[text()='数据中心']]'element
+2020/07/28 17:01:21:748  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (1055c5a88967bf9e726ad0f4085d81b5)] -> xpath: //p[text()='ETF持仓']]'element
+2020/07/28 17:01:31:943  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (1055c5a88967bf9e726ad0f4085d81b5)] -> xpath: //div[text()='白银ETF']]'element
+2020/07/28 17:05:47:108  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (d219f34e65ee6ce975a9eb5c054cca81)] -> xpath: //span[text()='财经日历']]'element
+2020/07/28 17:05:52:232  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (d219f34e65ee6ce975a9eb5c054cca81)] -> xpath: //span[text()='数据中心']]'element
+2020/07/28 17:05:58:175  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (d219f34e65ee6ce975a9eb5c054cca81)] -> xpath: //p[text()='ETF持仓']]'element
+2020/07/28 17:06:08:301  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (d219f34e65ee6ce975a9eb5c054cca81)] -> xpath: //div[text()='白银ETF']]'element
+2020/07/28 17:55:58:283  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (f7221896a380b48acf79975751ee9dc6)] -> xpath: //span[text()='财经日历']]'element
+2020/07/28 17:56:03:392  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (f7221896a380b48acf79975751ee9dc6)] -> xpath: //span[text()='数据中心']]'element
+2020/07/28 17:56:09:496  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (f7221896a380b48acf79975751ee9dc6)] -> xpath: //p[text()='ETF持仓']]'element
+2020/07/28 17:56:19:607  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (f7221896a380b48acf79975751ee9dc6)] -> xpath: //div[text()='白银ETF']]'element
+2020/07/28 17:57:35:183  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (9ea2565762d680b2611cd741107307d5)] -> xpath: //span[text()='财经日历']]'element
+2020/07/28 17:57:40:320  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (9ea2565762d680b2611cd741107307d5)] -> xpath: //span[text()='数据中心']]'element
+2020/07/28 17:57:47:018  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (9ea2565762d680b2611cd741107307d5)] -> xpath: //p[text()='ETF持仓']]'element
+2020/07/28 18:00:02:381  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (e7ce12c4827df820f00705de252d0b7a)] -> xpath: //span[text()='财经日历']]'element
+2020/07/28 18:00:07:476  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (e7ce12c4827df820f00705de252d0b7a)] -> xpath: //span[text()='数据中心']]'element
+2020/07/28 18:00:13:547  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (e7ce12c4827df820f00705de252d0b7a)] -> xpath: //p[text()='ETF持仓']]'element
+2020/07/28 18:00:23:783  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (e7ce12c4827df820f00705de252d0b7a)] -> xpath: //div[text()='白银ETF']]'element
+2020/07/28 18:01:32:272  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (378e8469042cf6a166140bdd76a77964)] -> xpath: //span[text()='财经日历']]'element
+2020/07/28 18:01:37:439  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (378e8469042cf6a166140bdd76a77964)] -> xpath: //span[text()='数据中心']]'element
+2020/07/28 18:01:43:569  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (378e8469042cf6a166140bdd76a77964)] -> xpath: //p[text()='ETF持仓']]'element
+2020/07/28 18:01:53:772  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (378e8469042cf6a166140bdd76a77964)] -> xpath: //div[text()='白银ETF']]'element
+2020/07/28 18:08:28:013  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (2175b5e93002b738f09ea97b6f161635)] -> xpath: //span[text()='财经日历']]'element
+2020/07/28 18:08:33:182  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (2175b5e93002b738f09ea97b6f161635)] -> xpath: //span[text()='数据中心']]'element
+2020/07/28 18:08:39:134  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (2175b5e93002b738f09ea97b6f161635)] -> xpath: //p[text()='ETF持仓']]'element
+2020/07/28 18:08:49:272  INFO Script_JD_001:240 - Click'[[ChromeDriver: chrome on XP (2175b5e93002b738f09ea97b6f161635)] -> xpath: //div[text()='白银ETF']]'element

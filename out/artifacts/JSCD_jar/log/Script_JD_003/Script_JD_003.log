@@ -1,0 +1,31 @@
+2021/01/25 17:04:49:304 ERROR Script_JD_003:964 - Loading Chrome Driver Error : 
+java.lang.IllegalStateException: The driver executable does not exist: D:\IdeaProjects\JSCD\JSCD\out\artifacts\JSCD_jar\.\driver\chromedriver.exe
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:121)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:116)
+	at org.openqa.selenium.chrome.ChromeDriverService.access$0(ChromeDriverService.java:1)
+	at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:138)
+	at com.base.core.BaseWebDriver.getChromeDriver(BaseWebDriver.java:957)
+	at com.base.core.BaseCase.initWebDriver(BaseCase.java:134)
+	at com.base.core.BaseCase.beforeclass(BaseCase.java:45)
+	at com.base.core.BaseCase.before(BaseCase.java:33)
+	at testcase.cxcb.Script_JD_003.main1(Script_JD_003.java:14)
+	at testcase.cxcb.Script_JD_003.main(Script_JD_003.java:38)
+2021/01/25 17:05:40:157 ERROR Script_JD_003:51 - Navigate url error : 
+java.lang.NullPointerException: null value in entry: url=null
+	at com.google.common.collect.CollectPreconditions.checkEntryNotNull(CollectPreconditions.java:33)
+	at com.google.common.collect.SingletonImmutableBiMap.<init>(SingletonImmutableBiMap.java:39)
+	at com.google.common.collect.ImmutableBiMap.of(ImmutableBiMap.java:49)
+	at com.google.common.collect.ImmutableMap.of(ImmutableMap.java:70)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.base.core.BaseCase.beforeclass(BaseCase.java:47)
+	at com.base.core.BaseCase.before(BaseCase.java:33)
+	at testcase.cxcb.Script_JD_003.main1(Script_JD_003.java:14)
+	at testcase.cxcb.Script_JD_003.main(Script_JD_003.java:38)
+2021/01/25 17:05:40:739  INFO Script_JD_003:225 - Input'tanlin41'on'[[ChromeDriver: chrome on XP (14de5a01a1d154f7043451a2392148b2)] -> id: username]'element
+2021/01/25 17:05:40:819  INFO Script_JD_003:225 - Input'Tl20200407!!!!!'on'[[ChromeDriver: chrome on XP (14de5a01a1d154f7043451a2392148b2)] -> id: password]'element
+2021/01/25 17:05:42:289  INFO Script_JD_003:240 - Click'[[ChromeDriver: chrome on XP (14de5a01a1d154f7043451a2392148b2)] -> xpath: //input[contains(@value,'登')]]'element
+2021/01/25 17:05:45:354  INFO Script_JD_003:240 - Click'[[ChromeDriver: chrome on XP (14de5a01a1d154f7043451a2392148b2)] -> xpath: //button[text()='打卡']]'element

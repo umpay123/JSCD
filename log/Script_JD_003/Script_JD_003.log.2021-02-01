@@ -1,0 +1,12 @@
+2021/02/01 19:46:10:805  INFO Script_JD_003:225 - Input'tanlin41'on'[[ChromeDriver: chrome on XP (3593275312108ed427d1ac2916f36825)] -> id: username]'element
+2021/02/01 19:46:10:876  INFO Script_JD_003:225 - Input'Tl20200407!!!!!'on'[[ChromeDriver: chrome on XP (3593275312108ed427d1ac2916f36825)] -> id: password]'element
+2021/02/01 19:46:12:347  INFO Script_JD_003:240 - Click'[[ChromeDriver: chrome on XP (3593275312108ed427d1ac2916f36825)] -> xpath: //input[contains(@value,'登')]]'element
+2021/02/01 19:46:18:413  INFO Script_JD_003:240 - Click'[[ChromeDriver: chrome on XP (3593275312108ed427d1ac2916f36825)] -> xpath: //button[text()='打卡']]'element
+2021/02/01 20:27:10:832  INFO Script_JD_003:225 - Input'tanlin41'on'[[ChromeDriver: chrome on XP (6d022a442ec350081f6c6f05700b42ce)] -> id: username]'element
+2021/02/01 20:27:10:896  INFO Script_JD_003:225 - Input'Tl20200407!!!!!'on'[[ChromeDriver: chrome on XP (6d022a442ec350081f6c6f05700b42ce)] -> id: password]'element
+2021/02/01 20:27:12:425  INFO Script_JD_003:240 - Click'[[ChromeDriver: chrome on XP (6d022a442ec350081f6c6f05700b42ce)] -> xpath: //input[contains(@value,'登')]]'element
+2021/02/01 20:27:18:486  INFO Script_JD_003:240 - Click'[[ChromeDriver: chrome on XP (6d022a442ec350081f6c6f05700b42ce)] -> xpath: //button[text()='打卡']]'element
+2021/02/01 21:00:10:707  INFO Script_JD_003:225 - Input'tanlin41'on'[[ChromeDriver: chrome on XP (eeed717f91683d72e0c2a54398536d2d)] -> id: username]'element
+2021/02/01 21:00:10:770  INFO Script_JD_003:225 - Input'Tl20200407!!!!!'on'[[ChromeDriver: chrome on XP (eeed717f91683d72e0c2a54398536d2d)] -> id: password]'element
+2021/02/01 21:00:12:231  INFO Script_JD_003:240 - Click'[[ChromeDriver: chrome on XP (eeed717f91683d72e0c2a54398536d2d)] -> xpath: //input[contains(@value,'登')]]'element
+2021/02/01 21:00:18:293  INFO Script_JD_003:240 - Click'[[ChromeDriver: chrome on XP (eeed717f91683d72e0c2a54398536d2d)] -> xpath: //button[text()='打卡']]'element
