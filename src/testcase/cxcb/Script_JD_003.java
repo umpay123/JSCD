@@ -17,6 +17,7 @@ public class Script_JD_003 extends BaseCase{
 		long randomNum = System.currentTimeMillis();
 		int ran3 = (int) (randomNum%(max-min)+min);
 		Thread.sleep(ran3);
+		System.out.println(ran3);
 		before();
 
 		jD_Auto = new JD_Auto();
@@ -37,10 +38,11 @@ public class Script_JD_003 extends BaseCase{
 		basedriver.pause(6000);
 		basedriver.click(basedriver.findElement(By.xpath("//button[text()='打卡']")));
         after();
-		
+
 	}
 
-	public static void main(String[] args) throws SchedulerException {
+	public static void main(String[] args) throws SchedulerException, InterruptedException, ClassNotFoundException {
+		//new Script_JD_003().main1();
 		Script_JD_003.schedulerJob();
 	}
 	//创建调度器
@@ -57,6 +59,7 @@ public class Script_JD_003 extends BaseCase{
 		Trigger trigger = TriggerBuilder.newTrigger().withIdentity("trigger1", "group3")
 				.withSchedule(CronScheduleBuilder.cronSchedule("00 00 9,21 ? * 1,2,3,4,5"))
 				.build();
+
 		Scheduler scheduler = getScheduler();
 
 		//将任务及其触发器放入调度器
